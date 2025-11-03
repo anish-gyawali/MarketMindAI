@@ -20,8 +20,4 @@
     <ProjectReference Include="..\MarketMind.ML.Trainer\MarketMind.ML.Trainer.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
 </Project>

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MarketMind.ML.Contracts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1fef6158dc78f61dc8edd242792838069290953")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c2db62d9b9088b7dd0b9df0d149944bdadcf3d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("MarketMind.ML.Contracts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MarketMind.ML.Contracts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
