@@ -1,2 +1,2 @@
-# HealthPulseAI
-A .NET-based microservice app that analyzes daily lifestyle habits and predicts health trend patterns — all locally, no private data stored.
+# MarketMindAI
+A .NET web API that analyzes stock market news headlines and predicts sentiment or short-term trends using ML.NET — containerized and deployed on Kubernetes.
