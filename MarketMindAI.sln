@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketMindAI.API", "MarketMindAI.API\MarketMindAI.API.csproj", "{3FCCD51C-3C32-460E-B356-B5A57DA3FBB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketMind.ML.Contracts", "MarketMind.ML.Contracts\MarketMind.ML.Contracts.csproj", "{620957CB-B85B-4381-97D5-07636A893321}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketMind.ML.Trainer", "MarketMind.ML.Trainer\MarketMind.ML.Trainer.csproj", "{0DCCC5F3-4481-46E4-901D-4A13C0032B49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FCCD51C-3C32-460E-B356-B5A57DA3FBB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FCCD51C-3C32-460E-B356-B5A57DA3FBB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FCCD51C-3C32-460E-B356-B5A57DA3FBB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FCCD51C-3C32-460E-B356-B5A57DA3FBB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{620957CB-B85B-4381-97D5-07636A893321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{620957CB-B85B-4381-97D5-07636A893321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{620957CB-B85B-4381-97D5-07636A893321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{620957CB-B85B-4381-97D5-07636A893321}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DCCC5F3-4481-46E4-901D-4A13C0032B49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DCCC5F3-4481-46E4-901D-4A13C0032B49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DCCC5F3-4481-46E4-901D-4A13C0032B49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DCCC5F3-4481-46E4-901D-4A13C0032B49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
